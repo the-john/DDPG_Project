@@ -14,4 +14,4 @@ The barrier for solving this environment must take into account the presence of 
 
 The environment is considered solved, when the average (over 100 episodes) of those average scores is at least +30.
 
-I wasn't able to get the Unity ML-Agent environment to work properly on my computer, so I had to resort to using the Udacity Workspace.  Just download everything in this repository to a Jupyter Notebook folder and run the DDPG_Control.ipynb file (here)[].  Details on how I trained the agent are included in this file.
+I wasn't able to get the Unity ML-Agent environment to work properly on my computer, so I had to resort to using the Udacity Workspace.  Just download everything in this repository to a Jupyter Notebook folder and run the DDPG_Control.ipynb file [here]().  Details on how I trained the agent are included in this file.
